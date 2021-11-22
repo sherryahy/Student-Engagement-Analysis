@@ -1,4 +1,6 @@
-# Student-Engagement-Analysis By Chujie Cai, Yijia Li, Haiyan An, Yuzhuo Gao 11/21/2021
+# Student-Engagement-Analysis
+By Chujie Cai, Yijia Li, Haiyan An, Yuzhuo Gao 11/21/2021
+
 
 Student Engagement Analysis on Digital Learning Platforms During the COVID-19 Pandemic project 
 
